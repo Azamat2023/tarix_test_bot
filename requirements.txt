@@ -1,4 +1,5 @@
-aiogram==3.4.1
-sqlite3-binary
+aiogram
 python-dotenv
 uvloop
+
+
